@@ -71,16 +71,6 @@ You can:
 
 Double-click the file
 
-OR right-click and choose "Open with Live Server" in VS Code (recommended)
-
-
-
-
-> ✅ No installations or setup required — runs directly in the browser.
-
-
-
-
 ---
 
 💻 Output / Preview
@@ -90,15 +80,4 @@ Below is a screenshot of the landing page in action:
 
 
 
-
----
-
-🌐 Live Demo
-
-👉 View Live Demo
-
-
----
-
-Let me know if you want this turned into a real README.md file or want help deploying the live demo!
 
