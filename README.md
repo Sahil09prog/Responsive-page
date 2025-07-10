@@ -53,7 +53,7 @@ To run the project locally:
 
 1. Clone the repository
 
-git clone: https://github.com/your-username/responsive-landing-page.git
+git clone: [https://github.com/your-username/responsive-landing-page.git](https://github.com/Sahil09prog/SCT_WD_01)
 
 
 2. Navigate into the project directory
