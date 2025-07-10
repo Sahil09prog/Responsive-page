@@ -3,6 +3,8 @@
 
 🌐 Responsive Landing Page with Fixed Navigation Menu
 
+---
+
 📝 Task Summary
 
 
