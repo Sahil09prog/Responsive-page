@@ -36,17 +36,17 @@ Lightweight structure with no frameworks — easy to understand, modify, and dep
 
 📚 What I Learned
 
-Implementing a fixed navigation bar using CSS position: fixed
+- Implementing a fixed navigation bar using CSS position: fixed
 
-Using JavaScript to detect scroll events and apply dynamic styling
+- Using JavaScript to detect scroll events and apply dynamic styling
 
-Creating smooth hover animations using CSS transitions
+- Creating smooth hover animations using CSS transitions
 
-Building a responsive layout with media queries
+- Building a responsive layout with media queries
 
-Enhancing user experience with clean UI/UX design principles
+- Enhancing user experience with clean UI/UX design principles
 
-Structuring and organizing code efficiently in a real-world web project
+- Structuring and organizing code efficiently in a real-world web project
 
 
 
