@@ -75,8 +75,11 @@ Double-click the file
 
 💻 Output / Preview
 
-Below is a screenshot of the landing page in action:
-(Replace the image link with your actual screenshot)
+
+
+
+
+https://github.com/user-attachments/assets/cdd9257a-e25b-4a5f-8626-a81c8de152e6
 
 
 
